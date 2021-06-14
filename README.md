@@ -30,33 +30,40 @@ Anexo a este documento, há um arquivo CSV com os dados dos pontos de taxi da ci
 
 Você precisa implementar as seguintes funcionalidades e disponibilizá-las através de um
 menu:
-* [Listar todos os pontos de taxi] Listar na tela os dados de todos os pontos de taxi
+* **[Listar todos os pontos de taxi]** Listar na tela os dados de todos os pontos de taxi
 da cidade;
-* [Informar minha localização] Permitir que o usuário digite sua localização
+* **[Informar minha localização]** Permitir que o usuário digite sua localização
 geográfica. As coordenadas geográficas (latitude e longitude) devem ser fornecidas
 no formato geodésico decimal, tal como os dados do arquivo de entrada fornecidos.
 Exemplo: (-30,023927 e -51,219871). O programa deverá lembrar dessa
 localização para as funções seguintes.
-* [Encontrar pontos próximos] O programa deverá exibir:
+* **[Encontrar pontos próximos]** O programa deverá exibir:
+
 a. Os 3 pontos de táxis mais próximos ao usuário;
+
 b. A distância entre o usuário e cada ponto (o cálculo da distância deverá ser
-realizado com a fórmula de Haversine – aqui tem implementações em
-diversas linguagens http://rosettacode.org/wiki/Haversine_formula);
-* [Buscar pontos por logradouro] Permitir que o usuário digite parte de um nome de
+realizado com a fórmula de Haversine – [aqui tem implementações em
+diversas linguagens](http://rosettacode.org/wiki/Haversine_formula));
+
+* **[Buscar pontos por logradouro]** Permitir que o usuário digite parte de um nome de
 logradouro (rua/avenida/etc). O programa deverá exibir todos os pontos de taxi
 localizados naquele logradouro
-* [Terminar o programa] Permitir que o usuário saia do programa.
+* **[Terminar o programa]** Permitir que o usuário saia do programa.
 
 ### Observações:
 a) Sugere-se o desenvolvimento de um programa em modo texto/console, com um
 menu com as opções enumeradas nos requisitos; não é necessário
 desenvolver uma interface gráfica;
+
 b) Juntamente a este enunciado foi fornecido um arquivo no formato CSV contendo
 dados dos pontos de taxi em um formato tabular (fonte: Datapoa);
+
 c) Você deve escrever o código que lê o arquivo e armazena os dados lidos em
 memória (do jeito que você quiser).
+
 d) Não é necessário gravar dados em nenhum formato, nem usar sistemas de bancos
 de dados.
+
 e) O programa deverá lidar com dados de entrada inválidos e informar uma mensagem
 adequada caso ocorram.
 
