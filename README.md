@@ -1,5 +1,7 @@
 # itacademy
 Meu projeto submetido para a DELL IT Academy em 2021.
+A versão 1.0 NÃO foi aceita.
+Haverá uma versão 1.1, reeditada enquanto eu aprendo a linguagem de programação utilizada com mais detalhe.
 
 ## Especificações
 
@@ -94,5 +96,5 @@ Fonte de dados : http://datapoa.com.br/dataset/stpoa-sistema-de-transporte-publi
 |   longitude   |   Coordenada geográfica (eixo X) de localização do ponto   |
 
 ## Relatório submetido
-[Acesse a pasta Relatório para conferir o arquivo em .tex](relatorio/)
+[Acesse a pasta Relatório para conferir o arquivo em .tex](1.0/relatorio/)
 
