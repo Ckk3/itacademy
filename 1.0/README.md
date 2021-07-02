@@ -1,7 +1,6 @@
 # itacademy
 Meu projeto submetido para a DELL IT Academy em 2021.
-A versão 1.0 NÃO foi aceita.
-Haverá uma versão 1.1, reeditada enquanto eu aprendo a linguagem de programação utilizada com mais detalhe.
+Esta é a versão 1.0, que NÃO foi aceita.
 
 ## Especificações
 
@@ -95,5 +94,6 @@ Fonte de dados : http://datapoa.com.br/dataset/stpoa-sistema-de-transporte-publi
 |    latitude   |   Coordenada geográfica (eixo Y) de localização do ponto   |
 |   longitude   |   Coordenada geográfica (eixo X) de localização do ponto   |
 
-## Relatórios
-Os relatórios referentes a cada versão estarão disponíveis em suas respectivas pastas.
+## Relatório submetido
+[Versão em Markdown do relatório.](https://github.com/linasdias/itacademy/tree/main/1.0/relatorio#relatorio)
+
